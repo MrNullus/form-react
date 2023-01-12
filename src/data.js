@@ -25,7 +25,7 @@ export const inputs = [
 		id: 3, 
 		name: "birthday",
 		type: "date",
-		placeholder: "Birthday,
+		placeholder: "Birthday",
 		label: "birthday",
 	},
 
